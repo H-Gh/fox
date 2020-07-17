@@ -21,3 +21,6 @@ Install packages by following composer command:
 ```composer
 composer install
 ```
+
+## Step 3: Create .env
+Create `.env` file. You can use the example provided for you.
